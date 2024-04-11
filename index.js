@@ -11,6 +11,6 @@ app.use("/auth", AuthRouter);
 app.use("/blog",BlogRouter)
 app.use("/user",UserRouter)
 
-app.listen(8800, () => {
+app.listen(3000, () => {
   console.log("Connected...");
 });
