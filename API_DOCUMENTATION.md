@@ -18,7 +18,7 @@ http://localhost:3000
   {
       "email": "example@example.com",
       "password": "password"
-  }`` 
+  }```
 
 -   **Response:**
     -   `200 OK` if successful:
