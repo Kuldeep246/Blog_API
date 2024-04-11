@@ -14,18 +14,18 @@ This is a simple blogging application built with Node.js, Express.js, and MySQL.
 
 1. Clone the repository:
 
-git clone [https://github.com/Kuldeep246/Blog_API](https://github.com/Kuldeep246/Blog_API)
+```git clone https://github.com/Kuldeep246/Blog_API```
 
 
 
  2. Navigate to the project directory:`
 
-`cd Blog_API`
+```cd Blog_API```
 
 
  3. Install dependencies 
 
-`npm install`
+```npm install```
 
 
  4. Set up the MySQL database:
