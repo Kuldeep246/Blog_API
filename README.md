@@ -14,7 +14,7 @@ This is a simple blogging application built with Node.js, Express.js, and MySQL.
 
 1. Clone the repository:
 
-```git clone https://github.com/Kuldeep246/Blog_API```
+``git clone https://github.com/Kuldeep246/Blog_API``
 
 
 
