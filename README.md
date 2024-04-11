@@ -43,7 +43,7 @@ This is a simple blogging application built with Node.js, Express.js, and MySQL.
 `node index.js`
 
 
- The application will start running on `http://localhost:3000.
+ The application will start running on http://localhost:3000.
 
 ## API Documentation
 
