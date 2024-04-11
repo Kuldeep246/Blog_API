@@ -46,6 +46,7 @@ This is a simple blogging application built with Node.js, Express.js, and MySQL.
  The application will start running on http://localhost:3000.
 
  6. Test application:
+ 
     `npm test`
 
 ## API Documentation
