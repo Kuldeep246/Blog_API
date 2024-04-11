@@ -25,7 +25,7 @@ This is a simple blogging application built with Node.js, Express.js, and MySQL.
 
  3. Install dependencies 
 
-```npm install```
+  ```npm install```
 
 
  4. Set up the MySQL database:
@@ -40,11 +40,16 @@ This is a simple blogging application built with Node.js, Express.js, and MySQL.
 
 5. Run the application: 
 
-`node index.js`
+   `node index.js`
 
 
  The application will start running on http://localhost:3000.
 
+ 6. Test application
+    `npm test`
+
 ## API Documentation
 
 For detailed API documentation, refer to the [API Documentation](API_DOCUMENTATION.md) file.
+
+
