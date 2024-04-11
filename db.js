@@ -16,14 +16,14 @@ db.connect(err => {
     if (err) throw err;
     console.log('Connected to MySQL server!');
 
-    db.query("CREATE DATABASE IF NOT EXISTS sdsd", (err, result) => {
+    db.query("CREATE DATABASE IF NOT EXISTS dbBlog", (err, result) => {
         if (err) throw err;
         console.log("Database  created successfully!");
     });
 
-    db.query("USE sdsd", (err, result) => {
+    db.query("USE dbBlog", (err, result) => {
         if (err) throw err;
-        console.log("Switched to database BLOGdb");
+        console.log("Switched to database dbBlog");
     });
 
     db.query(`CREATE TABLE IF NOT EXISTS users (
